@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nice-Cuties/static/css/main.6899778e.css",
+    "main.js": "/Nice-Cuties/static/js/main.2394397a.js",
+    "static/js/787.71774a75.chunk.js": "/Nice-Cuties/static/js/787.71774a75.chunk.js",
+    "index.html": "/Nice-Cuties/index.html",
+    "main.6899778e.css.map": "/Nice-Cuties/static/css/main.6899778e.css.map",
+    "main.2394397a.js.map": "/Nice-Cuties/static/js/main.2394397a.js.map",
+    "787.71774a75.chunk.js.map": "/Nice-Cuties/static/js/787.71774a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6899778e.css",
+    "static/js/main.2394397a.js"
+  ]
+}
